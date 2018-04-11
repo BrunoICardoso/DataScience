@@ -1,0 +1,1 @@
+Alavanca para ajuste do banco do motorista, ao sair do carro sempre agarra na calça, ao sair do carro.

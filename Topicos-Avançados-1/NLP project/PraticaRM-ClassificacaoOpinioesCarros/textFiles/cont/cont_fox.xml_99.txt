@@ -1,0 +1,1 @@
+Painel deficiente, falta marcador de temperatura e sobra marcador de contagiros.

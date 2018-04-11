@@ -1,0 +1,1 @@
+Comandos de abertura e fechamento das janelas no painel central. Acabamento interno poderia ser um pouco melhor.

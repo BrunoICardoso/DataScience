@@ -1,0 +1,1 @@
+Altura da tampa da frente do motor em relação a visibilidade do motorista.
